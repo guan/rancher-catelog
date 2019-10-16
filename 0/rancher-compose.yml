@@ -1,0 +1,8 @@
+version: '2'
+catalog:
+  name: "PostgreSQL & pgAdmin4"
+  version: "v1.0"
+  description: "PostgreSQL & pgAdmin4"
+services:
+  postgres:
+    scale: 1
