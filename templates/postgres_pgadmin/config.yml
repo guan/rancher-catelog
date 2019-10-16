@@ -1,4 +1,4 @@
 name: postgres_pgadmin
-description: "available postgreSQL&pgAdmin4"
+description: "PostgreSQL & pgAdmin4"
 version: v0.1
 category: "Web Apps"
